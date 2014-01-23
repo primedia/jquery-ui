@@ -1,7 +1,7 @@
 {
   "name": "jquery-ui",
   "version": "1.8.22",
-  "main": "jquery-ui-1.8.22.js",
+  "main": "jquery-ui.js",
   "dependencies": {
     "jquery": null
   },
