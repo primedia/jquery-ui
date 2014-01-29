@@ -1,0 +1,7 @@
+This is a custom build of jQuery-UI that only includes:
+
+- jquery.ui.core.js
+- jquery.ui.widget.js
+- jquery.ui.mouse.js
+- jquery.ui.droppable.js
+- jquery.effects.core.js
