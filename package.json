@@ -15,11 +15,4 @@
   "author": {
     "name": "RentPath"
   },
-  "repositories": [
-    {
-        "type": "git",
-        "url": "https://github.com/rentpath/preserves.git"
-    }
-  ],
-  "github": "https://github.com/rentpath/preserves.git"
 }
