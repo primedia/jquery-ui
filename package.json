@@ -3,16 +3,7 @@
   "version": "1.11.4",
   "description": "jquery-ui",
   "homepage": "https://github.com/rentpath/preserves",
-  "jam": {
-    "dependencies": {
-      "jquery": null
-    },
-    "main": "jquery-ui-1.11.4.js",
-    "include": [
-      "jquery-ui-1.11.4.js"
-    ]
-  },
   "author": {
     "name": "RentPath"
-  },
+  }
 }

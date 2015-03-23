@@ -1,0 +1,9 @@
+define([
+'jquery-ui/core',
+'jquery-ui/datepicker',
+'jquery-ui/draggable',
+'jquery-ui/droppable',
+'jquery-ui/effects',
+'jquery-ui/mouse',
+'jquery-ui/widget'
+]);
