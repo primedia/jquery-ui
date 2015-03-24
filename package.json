@@ -1,25 +1,9 @@
 {
   "name": "jquery-ui",
-  "version": "1.8.22",
+  "version": "1.11.4",
   "description": "jquery-ui",
-  "homepage": "https://github.com/primedia/preserves",
-  "jam": {
-    "dependencies": {
-      "jquery": null
-    },
-    "main": "jquery-ui-1.8.22.js",
-    "include": [
-      "jquery-ui-1.8.22.js"
-    ]
-  },
+  "homepage": "https://github.com/rentpath/preserves",
   "author": {
-    "name": "Primedia"
-  },
-  "repositories": [
-    {
-        "type": "git",
-        "url": "https://github.com/primedia/preserves.git"
-    }
-  ],
-  "github": "https://github.com/primedia/preserves.git"
+    "name": "RentPath"
+  }
 }
